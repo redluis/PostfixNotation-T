@@ -1,7 +1,7 @@
 # PostfixNotation-T
 Basic postfix notation calculating principle
 
-**Language: ** Java 8
+**Language:** Java 8  
 **Created:** 01.12.2021
 
 **Input**  
