@@ -7,10 +7,12 @@ Basic postfix notation calculating principle
 **Input**  
   
 Quantity of the members in the sequence, a positive integer.  
-Members of the sequence, integers, where:    
+Members of the sequence, integers, where:  
+  
     -1 – code for *.  
     -2 – code for +.  
-    -3 – code for -.  
+    -3 – code for -.
+      
 Positive integers are the operands.
 
 **Output**  
